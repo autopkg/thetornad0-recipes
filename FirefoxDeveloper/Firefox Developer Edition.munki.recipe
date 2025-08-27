@@ -7,9 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Firefox Developer Edition and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.thetornad0
-thetornad0
-com.github.thetornad0.munki.FirefoxDeveloperEdition</string>
+	<string>com.github.thetornad0.munki.FirefoxDeveloperEdition</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -37,9 +35,7 @@ com.github.thetornad0.munki.FirefoxDeveloperEdition</string>
 	<key>MinimumVersion</key>
 	<string>2.3</string>
 	<key>ParentRecipe</key>
-	<string>com.github.thetornad0
-thetornad0
-com.github.thetornad0.download.FirefoxDeveloperEdition</string>
+	<string>com.github.thetornad0.download.FirefoxDeveloperEdition</string>
 	<key>Process</key>
 	<array>
 		<dict>

@@ -7,9 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Firefox Nightly and uploads the package to Jamf.</string>
 	<key>Identifier</key>
-	<string>com.github.thetornad0
-thetornad0
-com.github.thetornad0.jamf.FirefoxNightly</string>
+	<string>com.github.thetornad0.jamf.FirefoxNightly</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -20,9 +18,7 @@ com.github.thetornad0.jamf.FirefoxNightly</string>
 	<key>MinimumVersion</key>
 	<string>2.3</string>
 	<key>ParentRecipe</key>
-	<string>com.github.thetornad0
-thetornad0
-com.github.thetornad0.pkg.FirefoxNightly</string>
+	<string>com.github.thetornad0.pkg.FirefoxNightly</string>
 	<key>Process</key>
 	<array>
 		<dict>
